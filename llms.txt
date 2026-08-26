@@ -1,0 +1,18 @@
+# EasyOps
+
+> EasyOps turns every wholesale purchase order into a living, AI-powered workspace — one place to see everything, take action, and automate deduction recovery and compliance for CPG brands selling through KeHE, UNFI, and other distributors.
+
+## Solutions by category
+- [Food & Beverage](https://tryeasyops.com/solutions/food-beverage): Deduction recovery for grocery and beverage brands — fill-rate fees, OTD penalties, cut cases.
+- [Supplements & Vitamins](https://tryeasyops.com/solutions/supplements): Deduction recovery for VMS brands — short-date markdowns, labeling compliance, high-value SKU margin protection.
+- [Health, Beauty & Personal Care](https://tryeasyops.com/solutions/health-beauty): Deduction recovery for HBA brands — damage claims, MAP/pricing, new-item and slotting fees.
+
+## Product
+- [Deduction recovery](https://tryeasyops.com/deduction-recovery): Trace every KeHE deduction to the rule that caused it and find disputable chargebacks in minutes.
+- [KeHE compliance guide](https://tryeasyops.com/kehe-compliance-guide): Reference for KeHE chargeback codes and compliance rules.
+
+## Essays
+- [The last unoptimized purchase](https://tryeasyops.com/essays/the-last-unoptimized-purchase)
+- [The deduction industry needs your deductions](https://tryeasyops.com/essays/the-deduction-industry-needs-your-deductions)
+- [Operations isn't a department anymore](https://tryeasyops.com/essays/the-new-definition-of-operations)
+- [The Retail Ops Engineer manifesto](https://tryeasyops.com/retail-ops-engineer)
