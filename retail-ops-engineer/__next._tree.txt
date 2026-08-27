@@ -2,6 +2,6 @@
 :HL["/easyops-marketing-concept-preview/_next/static/media/49ac8188cb49c386.p.15yv5q8qhkunz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/easyops-marketing-concept-preview/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/easyops-marketing-concept-preview/_next/static/media/d3f3f01dfc015e12-s.p.0xa2imhn0fp5k.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/easyops-logo.png","image"]
-:HL["/jordan-harper.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"retail-ops-engineer","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"TITi3U4uwPCI3qUEeLYst"}
+:HL["/easyops-marketing-concept-preview/easyops-logo.png","image"]
+:HL["/easyops-marketing-concept-preview/jordan-harper.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"retail-ops-engineer","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"iUgy9Ca5FJ2lWvZzVMw0x"}
