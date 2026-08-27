@@ -4,4 +4,4 @@
 :HL["/easyops-marketing-concept-preview/_next/static/media/d3f3f01dfc015e12-s.p.0xa2imhn0fp5k.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/easyops-marketing-concept-preview/easyops-logo.png","image"]
 :HL["/easyops-marketing-concept-preview/jordan-harper.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"essays","param":null,"prefetchHints":0,"slots":{"children":{"name":"the-new-definition-of-operations","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"XNhsHFQaZSco2pWXVdfS-"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"essays","param":null,"prefetchHints":0,"slots":{"children":{"name":"the-new-definition-of-operations","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"6SenLKXpoepk7bzgHy1Yl"}
