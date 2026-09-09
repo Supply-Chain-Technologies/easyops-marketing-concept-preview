@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[39756,["/easyops-marketing-concept-preview/_next/static/chunks/3dku3i-92-czo.js","/easyops-marketing-concept-preview/_next/static/chunks/3-tgpc50adlr6.js","/easyops-marketing-concept-preview/_next/static/chunks/3j9ky570efn1n.js"],"default"]
-3:I[37457,["/easyops-marketing-concept-preview/_next/static/chunks/3dku3i-92-czo.js","/easyops-marketing-concept-preview/_next/static/chunks/3-tgpc50adlr6.js","/easyops-marketing-concept-preview/_next/static/chunks/3j9ky570efn1n.js"],"default"]
+2:I[39756,["/easyops-marketing-concept-preview/_next/static/chunks/0o8c5mljc-clx.js","/easyops-marketing-concept-preview/_next/static/chunks/3-tgpc50adlr6.js","/easyops-marketing-concept-preview/_next/static/chunks/3j9ky570efn1n.js"],"default"]
+3:I[37457,["/easyops-marketing-concept-preview/_next/static/chunks/0o8c5mljc-clx.js","/easyops-marketing-concept-preview/_next/static/chunks/3-tgpc50adlr6.js","/easyops-marketing-concept-preview/_next/static/chunks/3j9ky570efn1n.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"R0LID61X5viB5NyQFGC9Z"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"FOzKf4kOjU-B3dneVHEom"}
