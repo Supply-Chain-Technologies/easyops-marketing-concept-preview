@@ -16,6 +16,11 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>https://tryeasyops.com/kehe-library</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://tryeasyops.com/kehe-compliance-guide</loc>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
