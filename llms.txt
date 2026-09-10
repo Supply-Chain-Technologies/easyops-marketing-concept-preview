@@ -33,12 +33,15 @@
 ## Field guides
 - [Deduction evidence checklist](https://tryeasyops.com/blog/evidence-checklist): What evidence KeHE expects for each deduction type, organized by cause.
 - [OTIF and receiving prevention](https://tryeasyops.com/blog/otif-receiving-prevention): Upstream prevention — checks to run before the truck moves.
+- [How to read a KeHE remittance](https://tryeasyops.com/blog/how-to-read-kehe-remittance): What each field means, how to match lines to POs, and what prefix codes look like in context.
+- [New supplier: first 90 days](https://tryeasyops.com/blog/kehe-new-supplier-first-90-days): Setup fees, EDI timeline, first appointments, and deductions to expect in your first quarter.
 
 ## Blog
 - [Demand planning from open POs](https://tryeasyops.com/blog/demand-planning-open-pos): How CPG brands forecast revenue from open KeHE purchase orders.
 - [KeHE deductions to QuickBooks](https://tryeasyops.com/blog/kehe-deductions-quickbooks): How deduction data flows into QuickBooks Online.
 - [What happens when a KeHE PO ships late](https://tryeasyops.com/blog/kehe-po-ships-late): The compliance cascade — fees, fill-rate impact, and discontinuation risk.
 - [KeHE vs. UNFI deductions](https://tryeasyops.com/blog/kehe-vs-unfi-deductions): How deduction management differs between the two distributors.
+- [How to calculate your KeHE deduction rate](https://tryeasyops.com/blog/kehe-deduction-rate): The formula, breakdown by type, and how to forecast net cash from shipped POs.
 - [CPG wholesale operations glossary](https://tryeasyops.com/blog/glossary): Plain-language definitions for wholesale operations terms.
 
 ## Interactive tools
