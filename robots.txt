@@ -1,3 +1,8 @@
 User-Agent: *
-Disallow: /
+Allow: /
+Disallow: /og
+Disallow: /social
+Disallow: /status/admin
 
+Host: https://tryeasyops.com
+Sitemap: https://tryeasyops.com/sitemap.xml
