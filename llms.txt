@@ -26,6 +26,7 @@
 - [How to audit a KeHE K-Solve export](https://tryeasyops.com/blog/ksolve-guide): Step-by-step from export to operational next action, with a worked example.
 
 ## Cornerstone guides
+- [The Wholesale PO Report · 2026 Edition](https://tryeasyops.com/blog/wholesale-po-report-2026): A 17-page, 26-source market report on distributors, deductions, deadlines, gross-to-net margin, finance teams, and practical operating steps for emerging CPG brands. No EasyOps customer data is used.
 - [KeHE deduction management](https://tryeasyops.com/blog/kehe-deduction-management): The complete operating guide — remittance to root cause in six steps.
 - [PO-to-cash workflow](https://tryeasyops.com/blog/po-to-cash): Follow a retailer-issued purchase order from receipt through settlement.
 - [What Is an Intelligent PO?](https://tryeasyops.com/blog/what-is-an-intelligent-po): The operating concept behind EasyOps — a living workspace for every purchase order.
